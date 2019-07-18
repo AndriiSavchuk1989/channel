@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="RowListItem" extends="Group">
+    <script type="text/brightscript" uri="pkg:/components/row_list_item.brs"></script>
+
+    <children>
+        <Poster
+          id="itemPoster"
+          translation="[10, 10]"
+          width="512"
+          height="288" >
+
+            <Rectangle
+              id="itemMask"
+              width="512"
+              height="288"
+              color="0x101010FF"
+              opacity="0.75" />
+
+        </Poster>
+
+        <Label
+          id="itemLabel"
+          translation="[20, 264]"
+          width="492"
+          horizAlign="right"
+          opacity="10.0" />
+
+    </children>
+</component>

@@ -2,7 +2,5 @@
 <component name="RowListItem" extends="Group">
     <interface>
         <field id="itemContent" type="node" onChange="showContent" />
-        <field id="withFocus" type="float" onChange="showFocus" />
-        <field id="rowFocusBlur" type="float" />
     </interface>
 </component>

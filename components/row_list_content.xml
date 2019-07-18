@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<component name="RowListContent" extends="ContentNode">
+    <children>
+        <ContentNode title="Roku training">
+            <ContentNode
+                    posterURI="pkg:/images/items_bgs/1.jpg"
+                    title="Rectangle Node 1" />
+            <ContentNode
+                    posterURI="pkg:/images/items_bgs/2.jpg"
+                    title="Rectangle Node 2" />
+            <ContentNode
+                    posterURI="pkg:/images/items_bgs/3.jpg"
+                    title="Rectangle Node 3" />
+            <ContentNode
+                    posterURI="pkg:/images/items_bgs/4.jpg"
+                    title="Rectangle Node 4" />
+        </ContentNode>
+    </children>
+</component>

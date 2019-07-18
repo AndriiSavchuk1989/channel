@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <component name="row_list" extends="Scene" initialFocus="exampleRowList">
     <script type="text/brightscript" uri="pkg:/components/row_list_scene.brs"></script>
+
     <children>
-        <RowList />
+
+        <RowList id="exampleRowList"
+          translation="[130, 160]"
+          itemComponentName="RowListItem"
+          numRows="40"
+          itemSize="[1608, 308]"
+          rowItemSize="[ [536, 308] ]"
+          itemSpacing="[0, 40]"
+          showRowLabel="[true]"
+          drawFocusFeedback="false"
+          vertFocusAnimationStyle="fixedFocusWrap"
+          rowFocusAnimationStyle="fixedFocusWrap" />
+
     </children>
+
 </component>

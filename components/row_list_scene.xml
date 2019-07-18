@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="row_list" extends="Scene" initialFocus="exampleRowList">
+    <script type="text/brightscript" uri="pkg:/components/row_list_scene.brs"></script>
+    <children>
+        <RowList />
+    </children>
+</component>

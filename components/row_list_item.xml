@@ -23,7 +23,8 @@
           translation="[20, 264]"
           width="492"
           horizAlign="right"
-          opacity="10.0" />
+          opacity="10.0"
+          color="0xFF0000" />
 
     </children>
 </component>

@@ -7,5 +7,6 @@ end function
 
 function showContent()
   itemContent = m.top.itemContent
+  print "itemContent :"; itemContent
   m.itemLabel.text = itemContent.title
 end function

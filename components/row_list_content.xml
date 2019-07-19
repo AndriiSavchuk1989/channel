@@ -3,17 +3,17 @@
     <children>
         <ContentNode title="Roku training">
             <ContentNode
-                    posterURI="pkg:/images/items_bgs/1.jpg"
-                    title="Rectangle Node 1" />
+              posterURI="pkg:/images/items_bgs/1.jpg"
+              title="Rectangle Node 1" />
             <ContentNode
-                    posterURI="pkg:/images/items_bgs/2.jpg"
-                    title="Rectangle Node 2" />
+              posterURI="pkg:/images/items_bgs/2.jpg"
+              title="Rectangle Node 2" />
             <ContentNode
-                    posterURI="pkg:/images/items_bgs/3.jpg"
-                    title="Rectangle Node 3" />
+              posterURI="pkg:/images/items_bgs/3.jpg"
+              title="Rectangle Node 3" />
             <ContentNode
-                    posterURI="pkg:/images/items_bgs/4.jpg"
-                    title="Rectangle Node 4" />
+              posterURI="pkg:/images/items_bgs/4.jpg"
+              title="Rectangle Node 4" />
         </ContentNode>
     </children>
 </component>

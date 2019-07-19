@@ -2,16 +2,16 @@
 <component name="RowListContent" extends="ContentNode">
     <children>
         <ContentNode title="Roku training">
-            <ContentNode
+            <CategoryRowListItem
               posterURI="pkg:/images/items_bgs/1.jpg"
               title="Rectangle Node 1" />
-            <ContentNode
+            <CategoryRowListItem
               posterURI="pkg:/images/items_bgs/2.jpg"
               title="Rectangle Node 2" />
-            <ContentNode
+            <CategoryRowListItem
               posterURI="pkg:/images/items_bgs/3.jpg"
               title="Rectangle Node 3" />
-            <ContentNode
+            <CategoryRowListItem
               posterURI="pkg:/images/items_bgs/4.jpg"
               title="Rectangle Node 4" />
         </ContentNode>

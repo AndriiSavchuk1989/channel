@@ -10,7 +10,7 @@
           numRows="40"
           itemSize="[1608, 308]"
           rowItemSize="[ [536, 308] ]"
-          itemSpacing="[0, 40]"
+          itemSpacing="[0, 60]"
           showRowLabel="[true]"
           drawFocusFeedback="false"
           vertFocusAnimationStyle="fixedFocusWrap"

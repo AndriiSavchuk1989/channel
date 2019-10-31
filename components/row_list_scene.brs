@@ -3,5 +3,9 @@ function init()
       rowlist = m.top.findNode("exampleRowList")
       rowlist.content = CreateObject("roSGNode", "RowListContent")
       print "_____________________";
+      print "_____________________";
+      print "_____________________";
+      print "_____________________";
+      print "_____________________";
       m.top.setFocus(true)
 end function

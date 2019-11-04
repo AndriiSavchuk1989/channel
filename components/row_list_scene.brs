@@ -7,5 +7,6 @@ function init()
       print "_____________________";
       print "_____________________";
       print "_____________________";
+      print "change made in feature_1";
       m.top.setFocus(true)
 end function

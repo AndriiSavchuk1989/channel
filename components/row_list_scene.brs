@@ -8,5 +8,6 @@ function init()
       print "_____________________";
       print "_____________________";
       print "change made in feature_1";
+      print "change made in feature_2";
       m.top.setFocus(true)
 end function
